@@ -1,2 +1,3 @@
 # demo
-it is my first git repo
+it's my first git repo:)
+Author- Ajit Singh
