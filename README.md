@@ -1,4 +1,4 @@
 # demo
-it's my first git repo:)
+it's my first git repository
 <br>
-Author- Ajit Singh
+Author- Ajit Singh (Freshman InfoTech)
